@@ -55,10 +55,10 @@ _**이텔릭+두껍게**_
 
 # 이미지
 
-![HEROPY](https://heropy.blog/css/images/logo.png)
+![즛붕이](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaAczcWE9eNCuXNeUiM1Er1NL3mM3KynQYRw&usqp=CAU)
 
-[![HEROPY](https://heropy.blog/css/images/logo.png)
-](https://heropy.blog/)
+[![즛붕이](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaAczcWE9eNCuXNeUiM1Er1NL3mM3KynQYRw&usqp=CAU)
+](https://www.youtube.com/c/ZUTOMAYO)
 
 # 인용문 
 
@@ -116,7 +116,7 @@ fixed | 뷰포트 | X
 
 ---
 
-<img width ="50" src ="https://heropy.blog/css/images/logo.png" alt = "헤로피" />
+<img width ="50" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaAczcWE9eNCuXNeUiM1Er1NL3mM3KynQYRw&usqp=CAU" alt = "헤로피" />
 
 # 수평선 
 ---
